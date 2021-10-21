@@ -1,0 +1,34 @@
+.postcard {
+    cursor: pointer;
+    max-width: 250px;
+    width: 250px;
+    flex: 1;
+    margin: 10px;
+}
+
+.post-box {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.timestamp {
+    color: dimgrey;
+}
+
+.comment-box {
+    border-radius: 20px;
+    background-color: #cce5ff;
+    padding: 10px;
+    display: inline-block;
+}
+
+.profile-pic-sm {
+    height: 40px;
+    width: 40px;
+    margin-left: 15px;
+    margin-right: 8px;
+    border: 1px solid purple;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

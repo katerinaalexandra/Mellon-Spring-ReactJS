@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "mellon.app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "jwt secret"
+    },
+    {
+      "name": "spring.jpa.defer-datasource-initialization",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.defer-datasource-initialization."
+    }
+  ] }
